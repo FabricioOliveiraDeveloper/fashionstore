@@ -1,1 +1,1 @@
-# fashionstore
+# FashionStore - Loja virtual
